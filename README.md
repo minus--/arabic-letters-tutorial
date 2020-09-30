@@ -8,8 +8,8 @@ A raw version of the data is provided in this repo without all the preprocessing
 
 ## Prerequisite
 
-To run this tutorial you need to install python 3.7 and pip, the use the `requierment.txt` provided in this repo:
+To run this tutorial you need to install python 3.7 and pip, the use the `requirements.txt` provided in this repo:
 
 ```bash
-    pip install -r requirement.txt
+    pip install -r requirements.txt
 ```
