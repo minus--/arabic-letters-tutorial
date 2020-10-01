@@ -130,4 +130,5 @@ dmypy.json
 
 # Extracted data specific to this project
 data/
+logs/
 
