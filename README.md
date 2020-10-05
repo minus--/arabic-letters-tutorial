@@ -13,3 +13,7 @@ To run this tutorial you need to install python 3.7 and pip, the use the `requir
 ```bash
     pip install -r requirements.txt
 ```
+
+## Setup GPU
+
+
